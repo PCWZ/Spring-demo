@@ -1,0 +1,282 @@
+2023-09-03 20:48:02.452  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 52444 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:48:02.453  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:48:03.316  INFO 52444 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:48:03.319  INFO 52444 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:48:03.320  INFO 52444 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:48:03.381  INFO 52444 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:48:03.383  INFO 52444 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 914 ms
+2023-09-03 20:48:03.517  INFO 52444 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:48:03.693  INFO 52444 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:48:03.759  INFO 52444 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:48:03.790  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 1.888 seconds (JVM running for 3603.917)
+2023-09-03 20:48:03.804  INFO 52444 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:49:10.645  INFO 52444 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:49:10.652  INFO 52444 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:51:43.144  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:51:43.157  WARN 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:51:43.158 ERROR 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:51:43.865  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 52444 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:51:43.866  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:51:45.489  INFO 52444 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:51:45.497  INFO 52444 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:51:45.498  INFO 52444 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:51:45.627  INFO 52444 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:51:45.630  INFO 52444 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1754 ms
+2023-09-03 20:51:45.835  INFO 52444 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:51:45.967  INFO 52444 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:51:45.991  INFO 52444 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:51:46.000  INFO 52444 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 2.747 seconds (JVM running for 3826.12)
+2023-09-03 20:51:46.010  INFO 52444 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:52:49.097  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:52:49.112  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:52:49.454  INFO 54693 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-09-03 20:52:49.455  INFO 54693 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-09-03 20:52:51.937  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:52:52.112  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:52:52.114  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:52:52.282  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:52:52.283  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2826 ms
+2023-09-03 20:52:52.705  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:52:52.917  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:52:53.018  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:52:53.064  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 7.49 seconds (JVM running for 10.222)
+2023-09-03 20:53:48.845  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-09-03 20:53:48.878  INFO 54693 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:53:48.963  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:53:48.964  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:53:48.964 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:53:49.147  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:53:49.153  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:53:51.997  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:53:52.002  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:53:52.003  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:53:52.385  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:53:52.389  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3214 ms
+2023-09-03 20:53:53.409  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:53:53.726  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:53:53.769  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:53:53.807  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 4.838 seconds (JVM running for 70.963)
+2023-09-03 20:53:53.910  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:54:00.182  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (1 addition, 1 deletion, 0 modifications)
+2023-09-03 20:54:00.200  INFO 54693 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:54:00.311  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:54:00.312  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:54:00.313 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:54:00.792  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:54:00.793  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:54:02.883  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:54:02.886  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:54:02.899  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:54:02.926  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:54:02.926  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2121 ms
+2023-09-03 20:54:03.363  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:54:03.767  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:54:03.792  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:54:03.800  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 3.479 seconds (JVM running for 80.956)
+2023-09-03 20:54:03.809  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:54:09.258  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:54:09.261  INFO 54693 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:54:09.314  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:54:09.314  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:54:09.314 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:54:09.385  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:54:09.386  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:54:11.031  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:54:11.033  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:54:11.034  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:54:11.075  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:54:11.078  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1547 ms
+2023-09-03 20:54:11.234  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:54:11.343  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:54:11.361  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:54:11.367  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 2.049 seconds (JVM running for 88.523)
+2023-09-03 20:54:11.379  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:54:46.199  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:54:46.203  INFO 54693 --- [Thread-15] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:54:46.279  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:54:46.279  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:54:46.279 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:54:46.354  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:54:46.354  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:54:48.193  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:54:48.195  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:54:48.197  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:54:48.339  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:54:48.340  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1977 ms
+2023-09-03 20:54:48.852  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:54:49.123  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:54:49.241  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:54:49.250  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 2.967 seconds (JVM running for 126.405)
+2023-09-03 20:54:49.259  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:55:26.831  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:55:26.835  INFO 54693 --- [Thread-19] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:55:26.891  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:55:26.891  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:55:26.891 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:55:27.160  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:55:27.161  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:55:28.377  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:55:28.379  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:55:28.380  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:55:28.468  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:55:28.469  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1303 ms
+2023-09-03 20:55:28.652  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:55:28.765  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:55:28.835  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:55:28.854  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 1.96 seconds (JVM running for 166.008)
+2023-09-03 20:55:28.871  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:56:25.609  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:56:25.615  INFO 54693 --- [Thread-23] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:56:25.671  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:56:25.672  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:56:25.672 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:56:25.764  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:56:25.764  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:56:27.292  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:56:27.295  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:56:27.295  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:56:27.325  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:56:27.340  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1573 ms
+2023-09-03 20:56:27.815  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:56:28.004  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:56:28.021  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:56:28.033  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 2.358 seconds (JVM running for 225.194)
+2023-09-03 20:56:28.096  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:57:11.767  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:57:11.770  INFO 54693 --- [Thread-27] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:57:11.838  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:57:11.838  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:57:11.838 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:57:12.336  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:57:12.339  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:57:14.765  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:57:14.769  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:57:14.770  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:57:14.856  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:57:14.892  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2549 ms
+2023-09-03 20:57:15.280  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:57:15.624  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:57:15.744  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:57:15.754  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 3.912 seconds (JVM running for 272.914)
+2023-09-03 20:57:15.758  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:57:30.135  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:57:30.142  INFO 54693 --- [Thread-31] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:57:30.586  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:57:30.586  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:57:30.587 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:57:31.434  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:57:31.435  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:57:33.355  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:57:33.357  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:57:33.359  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:57:33.372  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:57:33.373  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1932 ms
+2023-09-03 20:57:34.251  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:57:34.339  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:57:34.789  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:57:34.800  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 4.191 seconds (JVM running for 291.96)
+2023-09-03 20:57:34.805  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:57:39.788  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 20:57:39.793  INFO 54693 --- [Thread-35] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 20:57:39.842  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 20:57:39.842  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 20:57:39.842 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 20:57:39.915  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 20:57:39.916  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 20:57:41.032  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 20:57:41.035  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 20:57:41.036  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 20:57:41.163  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 20:57:41.170  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1063 ms
+2023-09-03 20:57:41.326  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 20:57:41.416  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 20:57:41.430  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 20:57:41.444  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 1.596 seconds (JVM running for 298.603)
+2023-09-03 20:57:41.447  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-03 20:58:31.061  INFO 54693 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-03 20:58:31.068  INFO 54693 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-03 20:58:31.070  INFO 54693 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-09-03 21:01:05.631  INFO 54693 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-03 21:01:05.643  INFO 54693 --- [Thread-39] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 21:01:05.643  INFO 54693 --- [Thread-39] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-09-03 21:01:05.700  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 21:01:05.701  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 21:01:05.701 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 21:01:06.022  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 21:01:06.022  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 21:01:07.469  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 21:01:07.471  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 21:01:07.471  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 21:01:07.489  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-03 21:01:07.489  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1462 ms
+2023-09-03 21:01:07.656  WARN 54693 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'sg.ntu.edu.springdemo.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-09-03 21:01:07.714  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 21:01:07.875  INFO 54693 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-03 21:01:08.194 ERROR 54693 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.ntu.edu.springdemo.SampleController required a bean of type 'sg.ntu.edu.springdemo.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.ntu.edu.springdemo.SampleItem' in your configuration.
+
+2023-09-03 21:01:33.860  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 21:01:33.862  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 21:01:33.881 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 21:01:34.550  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 21:01:34.551  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 21:01:37.161  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 21:01:37.253  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 21:01:37.258  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 21:01:37.394  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2023-09-03 21:01:37.395  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2825 ms
+2023-09-03 21:01:37.449  WARN 54693 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'item'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'sg.ntu.edu.springdemo.SampleItem' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-09-03 21:01:37.450  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-03 21:01:37.608  INFO 54693 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-09-03 21:01:37.617 ERROR 54693 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field item in sg.ntu.edu.springdemo.SampleController required a bean of type 'sg.ntu.edu.springdemo.SampleItem' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'sg.ntu.edu.springdemo.SampleItem' in your configuration.
+
+2023-09-03 21:01:52.188  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟢 Starting MySpringbootProjectApplication
+2023-09-03 21:01:52.188  WARN 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🟠 Test Warning
+2023-09-03 21:01:52.188 ERROR 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : 🔴 Error Warning
+2023-09-03 21:01:52.232  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Starting SpringDemoApplication using Java 17.0.8 on Admins-MacBook-Pro-8.local with PID 54693 (/Users/Admin/Desktop/sctp/spring-demo/target/classes started by Admin in /Users/Admin/Desktop/sctp/spring-demo)
+2023-09-03 21:01:52.232  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-09-03 21:01:52.588  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-09-03 21:01:52.594  INFO 54693 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-03 21:01:52.598  INFO 54693 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-03 21:01:52.699  INFO 54693 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2023-09-03 21:01:52.699  INFO 54693 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 465 ms
+2023-09-03 21:01:52.912  INFO 54693 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-09-03 21:01:53.071  INFO 54693 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-03 21:01:53.146  INFO 54693 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-09-03 21:01:53.155  INFO 54693 --- [restartedMain] s.n.e.springdemo.SpringDemoApplication   : Started SpringDemoApplication in 0.962 seconds (JVM running for 550.309)
+2023-09-03 21:01:53.158  INFO 54693 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
